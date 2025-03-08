@@ -15,7 +15,7 @@ I believe in the power of scientific discovery, and this website is dedicated to
 ![Microwave Screen](d:python\cosmos\comsosclassroom.github.oi\microwave_screen.jpg)
    A foundational course that explores classical mechanics, electromagnetism, and thermodynamics.
   
-- **Honors Physics**  
+- [**Honors Physics**](hphysics.html)  
    An advanced physics course with an emphasis on problem-solving and deeper theoretical understanding.
   
 - **Astronomy**  
