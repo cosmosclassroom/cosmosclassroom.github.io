@@ -8,7 +8,7 @@ repo_dir = r'd:\python\Cosmos\cosmosclassroom.github.io'
 os.chdir(repo_dir)
 
 # Convert markdown to HTML using Pandoc
-subprocess.run(['pandoc', 'markdown.md', '-o', 'index.html', '--css', 'style.css'])
+subprocess.run(['pandoc', '--standalone', "Markdown.md", '-c', 'style.css', '-o', "index.html"])
 
 # Run Git commands
 subprocess.run(['git', 'status'])
