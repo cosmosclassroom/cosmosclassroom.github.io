@@ -19,7 +19,7 @@ css: "style.css"
 
 ## Welcome to Cosmos in the Classroom com ##
 
-This is the landing page for cosmosintheclassroom.com
+The cat is under the table
 
 ### About Me
 Hello! I am a high school teacher in Branford, Connecticut. I teach both honors and standard-level physics, as well as honors-level biology. My goal is to make learning these subjects engaging and accessible for all students.
