@@ -12,7 +12,7 @@ I believe in the power of scientific discovery, and this website is dedicated to
 ## Courses
 
 - **Physics**  
-![Microwave Screen]("microwave screen.jpg")
+![Microwave Screen](d:python\cosmos\comsosclassroom.github.oi\microwave screen.jpg)
    A foundational course that explores classical mechanics, electromagnetism, and thermodynamics.
   
 - **Honors Physics**  
