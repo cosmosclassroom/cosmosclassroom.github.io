@@ -21,8 +21,8 @@ css: "style.css"
 
 This is the landing page for cosmosintheclassroom.com
 
->### About Me
->Hello! I am a high school teacher in Branford, Connecticut. I teach both honors and >standard-level physics, as well as honors-level biology. My goal is to make learning these >subjects engaging and accessible for all students.
+### About Me
+Hello! I am a high school teacher in Branford, Connecticut. I teach both honors and standard-level physics, as well as honors-level biology. My goal is to make learning these subjects engaging and accessible for all students.
 
 | Subject | Course |
 |-: |:- |
@@ -34,5 +34,5 @@ If you have any questions or need assistance, please feel free to reach out to m
 
 <footer>
 <p>&copy; 2025 Cosmos in the Classroom. All rights reserved.</p>
- <p>Contact: <a href="mailto:teacher@example.com">teacher@example.com</a></p>
+<p>Contact: <a href="mailto:teacher@example.com">teacher@example.com</a></p>
 </footer>
