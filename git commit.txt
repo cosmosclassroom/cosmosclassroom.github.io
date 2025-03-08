@@ -8,8 +8,4 @@ git pull origin main
 
 git push origin main
 
-
-
-```
-pandoc input.md -o output.html -c style.css
-```
+pandoc markdown.md -o index.html --css style.css
