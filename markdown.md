@@ -1,6 +1,6 @@
 ---
 title: Physics Courses - Home
-layout: default
+layout: page
 ---
 
 # Welcome to My Physics Courses
@@ -12,7 +12,7 @@ I believe in the power of scientific discovery, and this website is dedicated to
 ## Courses
 
 - **Physics**  
-![Microwave Screen](d:python\cosmos\comsosclassroom.github.oi\microwave_screen.jpg)
+[Microwave Screen][microwave]
    A foundational course that explores classical mechanics, electromagnetism, and thermodynamics.
   
 - [**Honors Physics**](hphysics.html)  
@@ -24,24 +24,22 @@ I believe in the power of scientific discovery, and this website is dedicated to
 - **Honors Biology**  
    While not strictly physics, this course offers an understanding of biological systems through the lens of physics.
 
-## Key Resources
+### Key Resources
 
 - [Free-Body Diagrams](#) - Interactive visualizations to help you understand forces and motion.
 - [LaTeX Solution Keys](#) - Solution keys formatted with LaTeX for calculations and problem-solving steps.
 - [2D Linear and Circular Motion](#) - Reference frames and force vectors for complex motion problems.
 
-## About Me
+### About Me
 
 I am a passionate teacher with a deep love for the classics and natural sciences. My goal is to help students understand the foundational principles of physics and how they relate to our everyday lives and the universe around us.
 
 If you have any questions or would like to schedule office hours, feel free to [contact me](mailto:your-email@example.com).
 
+---
 ## Contact Information
 
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - Office Hours: Monday to Friday, 3 PM - 4 PM
 
----
-
-Thank you for visiting, and I look forward to helping you explore the wonders of physics!
-
+[microwave]: microwave_screen.jpg "Microwave Screen"
