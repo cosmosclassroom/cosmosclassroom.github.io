@@ -49,6 +49,7 @@ This section has resources for honors biology students
 
 ## Honors Biology
 
-
-## Contact Information
-If you have any questions or need assistance, please feel free to reach out to me at teacher@example.com.
+<footer>
+  <p>&copy; 2025 Cosmos in the Classroom. All rights reserved.</p>
+  <p>Contact: If you have any questions or need assistance, please feel free to reach out to me at <a href="mailto:teacher@example.com">teacher@example.com</a></p>
+</footer>
