@@ -12,10 +12,10 @@ I believe in the power of scientific discovery, and this website is dedicated to
 ## Courses
 
 - **Physics**  
-[Microwave Screen][microwave]
+![Microwave Screen][microwave]
    A foundational course that explores classical mechanics, electromagnetism, and thermodynamics.
   
-- [**Honors Physics**](hphysics.html)  
+- [**Honors Physics**](hphysics)  
    An advanced physics course with an emphasis on problem-solving and deeper theoretical understanding.
   
 - **Astronomy**  
@@ -42,4 +42,5 @@ If you have any questions or would like to schedule office hours, feel free to [
 - Email: [your-email@example.com](mailto:your-email@example.com)
 - Office Hours: Monday to Friday, 3 PM - 4 PM
 
-[microwave]: microwave_screen.jpg "Microwave Screen"
+[microwave]: d:\python\cosmos\cosmosclassroom.github.io\microwave_screen.jpg "Microwave Screen"
+[hphysics]: .\hphysics.html
