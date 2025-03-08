@@ -1,0 +1,72 @@
+/* Academic Minimalist CSS */
+
+/* Global Styles */
+body {
+    font-family: 'Lora', serif;  /* Classic, readable feel */
+    font-size: 16px;
+    color: #3D3B30;  /* Earthy dark brown */
+    background-color: #F5F3EE;  /* Soft parchment-like tone */
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;  /* Renaissance-style elegance */
+    font-weight: bold;
+    color: #2C2A26;  /* Darker for strong presence */
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+/* Navigation Bar */
+nav {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #E0D6C9;  /* Aged parchment */
+    border-bottom: 3px solid #8C7A69;  /* Classical trim */
+}
+
+nav a {
+    font-family: 'Lora', serif;
+    font-size: 1.2em;
+    color: #3D3B30;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Layout */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #FFF;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #6D6A62;
+    padding: 10px;
+    margin-top: 30px;
+}
